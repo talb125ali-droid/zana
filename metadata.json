@@ -1,0 +1,8 @@
+{
+  "name": "Zana Store Management System - سيستەمی بەڕێوەبردنی کۆگاکانی زانا",
+  "description": "سیستەمی پێشکەوتووی بەڕێوەبردنی کۆگا و فرۆشتنی زانا بۆ ٦ لقی بازرگانی بە زمانی کوردی سۆرانی، بنکەدراوەی MySQL و نژیاروانی PHP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
